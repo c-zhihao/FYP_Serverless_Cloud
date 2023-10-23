@@ -1,5 +1,5 @@
 # FYP_Serverless_Cloud
-Install Jupyter Notebook 
+Run in Jupyter notebook environment  
 There are 4 types of jupyter notebook files:
 1. Graphs
 2. Timer simulation
